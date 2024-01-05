@@ -1,5 +1,17 @@
 ## Welcome to the Social Change Lab 👋
 
+<a href="https://twitter.com/SocChangeLab"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/SocChangeLab"></a> 
+
+**Learn more about us and our research at [www.socialchangelab.org/](https://www.socialchangelab.org/)** 🌱 📚
+
+
+
+
+
+
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
